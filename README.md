@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 * [x] User can **see the app launcher icon** instead of android default launcher icon
 * [x] User can **view a welcome screen (splashScreen)** when the app starts
-* [x] user's **interface improuved** with attractive colors
+* [x] user's **interface improved** with attractive colors
 
 ## Video Walkthrough
 
