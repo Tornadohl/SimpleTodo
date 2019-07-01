@@ -1,8 +1,19 @@
 <resources>
-    <string name="app_name">SimpleTodo</string>
+
+    <string name="app_name">Todo</string>
+
     <string name="add">Add</string>
+
     <string name="add_new">Add a new task</string>
+
     <string name="Add_new">Add a new item</string>
+
     <string name="Add_description">Add_Item description</string>
+
     <string name="title_activity_splash_screen">SplashScreen</string>
+
+    <string name="settings"></string>
+
+    <string name="newText"></string>
+
 </resources>
