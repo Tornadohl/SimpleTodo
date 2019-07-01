@@ -24,12 +24,15 @@ The following **additional** features are implemented:
 * [x] User can **see the app launcher icon** instead of android default launcher icon
 * [x] User can **view a welcome screen (splashScreen)** when the app starts
 * [x] user's **interface improved** with attractive colors
+* [x] search option added
+* [x] Option menu added
+
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='newWalkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='finalWalkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
